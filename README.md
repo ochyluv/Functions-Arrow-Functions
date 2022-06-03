@@ -1,0 +1,1 @@
+[replit link](https://replit.com/@QueenAmeh/Functions-Arrow-Functions#index.js)
